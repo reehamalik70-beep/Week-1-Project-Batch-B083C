@@ -34,7 +34,7 @@ this lab environment.
 
 ![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/6be1f89504dfc59b9323efea8f7b47b820b3a906/7%20zip%20installed.jpg)
 
-![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/e56a69a31b5266c2a34fbc84b072d51cff56d7bf/Virtual%20Box%20installed.png)
+![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/e56a69a31b5266c2a34fbc84b072d51cff56d7bf/Virtual%20Box%20installed.png) 
 
 ![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/be6b42d811b27c52ddded38f6800e1947606d156/Kali%20Linux%20started%20up.jpg)
 
