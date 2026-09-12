@@ -38,3 +38,5 @@ this lab environment.
 
 ![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/be6b42d811b27c52ddded38f6800e1947606d156/Kali%20Linux%20started%20up.jpg)
 
+![image](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/289059f4c08b600fd76d51b8dc39131ae28c09ff/NAT%20Network%20setting.png)
+
