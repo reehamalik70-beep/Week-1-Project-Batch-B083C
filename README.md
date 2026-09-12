@@ -40,3 +40,5 @@ this lab environment.
 
 ![image](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/289059f4c08b600fd76d51b8dc39131ae28c09ff/NAT%20Network%20setting.png)
 
+![image](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/a2abf5d99926ae164d885aec12d326df6de53d2a/Test%20Connectivity.jpg)
+
