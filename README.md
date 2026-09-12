@@ -43,4 +43,3 @@ this lab environment.
 ![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/a2abf5d99926ae164d885aec12d326df6de53d2a/Test%20Connectivity.jpg)
 
 ![image alt](https://github.com/reehamalik70-beep/Week-1-Project-Batch-B083C/blob/7343c74ad4620265c9c5edb52322cae350198727/conect%20up%20modify.jpg)
-
